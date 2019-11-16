@@ -10,7 +10,7 @@ Le MSPM est un jeu de société sur Saint Pierre & Miquelon, conçu par des amat
 
 Il est fortement conseillé au joueur : 
 - d'avoir mis au moins une fois les pieds à Saint Pierre et à Miquelon (pour savoir de quoi il joue)
-- d'être accompagné d'une personne à cinq autres personnes
+- d'être accompagné d'une à cinq autres personnes
 - d'avoir sous la main son plateau de jeu et ses accessoires
 
 ### Que trouverai-je sur ce site ?
