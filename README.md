@@ -2,6 +2,8 @@
 
 Le MSPM est né le 12 décembre 2018 à 10h44, heure de Saint Pierre, et provient de la rencontre fortuite, sur une chaise de bureau, entre l'esprit fécond de T. et l'ennui.
 
+![Image](https://github.com/MSPM975/MSPM/blob/master/image%20dossier-01.png)
+
 ### De quoi s'agit-il ?
 
 Le MSPM est un jeu de société sur Saint Pierre & Miquelon, conçu par des amateurs pour des connaisseurs. L'objectif y est plutôt simple : devenir le maître de ces îles. Vos moyens ? Contrôler les transports, investir dans l'énergie, construire des hôtels ou parier sur le logement. Il vous faudra donc choisir vos investissements et compter sur un peu de chance et beaucoup d'instinct pour ruiner vos concurrents.
