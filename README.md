@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## MSPM
 
-You can use the [editor on GitHub](https://github.com/MSPM975/Site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Le MSPM est né le 12 décembre 2018 à 10h44, heure de Saint Pierre, et provient de la rencontre fortuite, sur une chaise de bureau, entre l'esprit fécond de T. et l'ennui.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### De quoi s'agit-il ?
 
-### Markdown
+Le MSPM est un jeu de société sur Saint Pierre & Miquelon, conçu par des amateurs pour des connaisseurs. L'objectif y est plutôt simple : devenir le maître de ces îles. Vos moyens ? Contrôler les transports, investir dans l'énergie, construire des hôtels ou parier sur le logement. Il vous faudra donc choisir vos investissements et compter sur un peu de chance et beaucoup d'instinct pour ruiner vos concurrents.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### De quoi ai-je besoin pour y jouer ?
 
-```markdown
-Syntax highlighted code block
+Il est fortement conseillé au joueur : 
+- d'avoir mis au moins une fois les pieds à Saint Pierre et à Miquelon (pour savoir de quoi il joue)
+- d'être accompagné d'une personne à cinq autres personnes
+- d'avoir sous la main son plateau de jeu et ses accessoires
 
-# Header 1
-## Header 2
-### Header 3
+### Que trouverai-je sur ce site ?
 
-- Bulleted
-- List
+Vous pouvez télécharger ici de quoi fabriquer votre jeu. Il doit comporter les pièces suivantes : 
+- un plateau de jeu
+- 28 cartes “titre de propriété”
+- 52 cartes “flash info SPM 1ère”
+- une liasse de dollars saint-pierrais ($SPM)
+- 32 pions bâtiments (10 maisons, 6 bars, 4 hôtels, 3 fermes, 3 pêcheries, 2 centres commerciaux, 2 déchetteries, une distillerie et un resort touristique)
+- 6 pions joueurs
 
-1. Numbered
-2. List
+En cliquant sur “view the project on Github”, en partie supérieure de cette page, vous accéderez à un dossier comportant les fichiers suivants :
+- un plateau de jeu au format pdf, de dimension 50*50cm, prêt à être imprimé sur une feuille de format raisin (50*65cm)
+- les cartes au format pdf, prêtes à être imprimées en recto-verso sur feuilles A3 puis à être découpées
+- la feuille de règle au format pdf, prêtes à être imprimées en recto-verso sur feuilles A3 puis à être découpées
+- une feuille de billets au format pdf, prêtes à être imprimées en recto-verso sur feuilles A3 puis à être découpées. Il est conseillé d'imprimer dix de ces feuilles pour un plateau, afin d'avoir une masse monétaire suffisante pour jouer en toute tranquilité.
+- les pions joueurs et bâtiments au format stl, compatibles avec tout type d'imprimantes 3D.
 
-**Bold** and _Italic_ and `Code` text
+Un fichier de cartes modifiables au format pdf est également mis à disposition. À l'aide d'un logiciel open-source comme Inscape, vous pouvez créer vos propres évènements et les intégrer à votre jeu. Si le coeur vous en dit et l'informatique ne vous effraie pas, vous pouvez les ajouter au dossier documents afin de les mettre à la disposition des autres joueurs.
 
-[Link](url) and ![Image](src)
-```
+### Une question ?
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MSPM975/Site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Vous pouvez envoyer un mail à l'adresse suivante.
