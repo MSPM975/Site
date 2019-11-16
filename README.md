@@ -2,7 +2,7 @@
 
 Le MSPM est né le 12 décembre 2018 à 10h44, heure de Saint Pierre, et provient de la rencontre fortuite, sur une chaise de bureau, entre l'esprit fécond de T. et l'ennui.
 
-![](master/image%20dossier-01.png)
+![](https://github.com/MSPM975/MSPM/blob/master/image%20dossier-01.png)
 
 ### De quoi s'agit-il ?
 
