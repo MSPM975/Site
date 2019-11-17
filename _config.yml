@@ -1,9 +1,4 @@
 # The name of your website.
 name: MSPM
 
-description:
-  # Description of your site. This will show up in google.
-  meta: MSPM, pièces de jeu
-
-
 theme: jekyll-theme-minimal
